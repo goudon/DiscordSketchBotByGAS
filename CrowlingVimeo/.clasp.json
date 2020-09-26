@@ -1,1 +1,6 @@
-{"scriptId":""}
+{
+  "scriptId": "",
+  "rootDir": "./src",
+  "fileExtension": "ts",
+  "filePushOrder": ["Code.ts"]
+}

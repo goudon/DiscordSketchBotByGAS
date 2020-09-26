@@ -1,0 +1,23 @@
+{
+  "name": "DiscordSketchBotByGAS",
+  "version": "1.0.0",
+  "description": "Crawling vimeo and send Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goudon/DiscordSketchBotByGAS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goudon/DiscordSketchBotByGAS/issues"
+  },
+  "homepage": "https://github.com/goudon/DiscordSketchBotByGAS#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.3.0"
+  }
+}

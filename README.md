@@ -1,16 +1,29 @@
 ## about
 
-Crawling vimeo and send Discord bot
+"Crawling vimeo and send Discord bot"
+
+send random sheet row value on discord from GAS project
 
 ## usage
 1. add spread sheet
-2. set ADD script (by clasp)
-3. get GAS scriptId
-4. set Discord Web Hook
+you get from url 
+`https://docs.google.com/spreadsheets/d/{spread_sheet_id}/edit#gid=0` 
 
-## use packages
+2. set ADD script (by clasp)
 ```
-・clasp (https://github.com/google/clasp)
+clasp pull
+or
+clasp create <name>
+```
+
+3. get Discord Web Hook
+```
+Discord > Server Setting > new Web Hook
+```
+
+## useing packages
+```
+clasp (https://github.com/google/clasp)
 ```
 
 
