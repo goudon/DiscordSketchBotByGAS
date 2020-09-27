@@ -15,15 +15,22 @@ clasp pull
 or
 clasp create <name>
 ```
+point : you need to turn on google apps script before using (https://script.google.com/home/usersettings) 
 
 3. get Discord Web Hook
 ```
 Discord > Server Setting > new Web Hook
 ```
 
-## useing packages
+4. push gas
 ```
-clasp (https://github.com/google/clasp)
+clasp push
+```
+
+## using packages
+```
+npm install
+・clasp (https://github.com/google/clasp)
 ```
 
 
